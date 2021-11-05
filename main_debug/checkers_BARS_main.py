@@ -1,4 +1,4 @@
-from tkinter import *
+﻿from tkinter import *
 from random import * # x0 = randint(0, 100)
 from copy import deepcopy 
 #import time
@@ -15,7 +15,7 @@ from checkers_BARS_file_manager import *
 BARS_file_manager_version("1.0")
 
 
-NAME = "BARS 5.4 test 1" # 
+NAME = "BARS 6.1" # 
 file = my_file(NAME)
 # 0  - свободная черная клетка
 # 1  - белая шашка
